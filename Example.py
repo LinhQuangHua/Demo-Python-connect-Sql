@@ -14,7 +14,7 @@ def create(conn):
     cursor = conn.cursor()
     cursor.execute(
         'insert into test_python.dbo.My_Table(Name) values(?);',
-        ('Dog'),
+        ('Dog')
     )
     conn.commit()
     read(conn)
