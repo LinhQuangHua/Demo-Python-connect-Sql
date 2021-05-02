@@ -78,3 +78,5 @@ I print the result in console.
 ![Check database](https://github.com/LinhQuangHua/Demo-Python-connect-Sql/blob/master/doc/after%20check.jpg)
 
 # References
+
+https://datatofish.com/how-to-connect-python-to-sql-server-using-pyodbc/
